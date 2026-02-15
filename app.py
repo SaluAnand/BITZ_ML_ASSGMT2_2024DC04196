@@ -25,7 +25,7 @@ from sklearn.metrics import (
 # Page config
 # ─────────────────────────────────────────────────────────────────────────────
 st.set_page_config(
-    page_title="Breast Cancer Classifier | ML Assignment 2",
+    page_title="Breast Cancer Classifier | ML ASSGMT2 - 2024DC04196",
     page_icon="🎗️",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -101,7 +101,7 @@ with st.sidebar:
         st.image("https://upload.wikimedia.org/wikipedia/en/d/d3/BITS_Pilani-Logo.svg", width=130)
     except Exception:
         st.markdown("**BITS Pilani WILP**")
-    st.markdown("### ML Assignment 2 - 2024DC04196")
+    st.markdown("### ML ASSGMT2 - 2024DC04196")
     st.divider()
     st.markdown("### 🔧 Model Selection")
     selected_model_key = st.selectbox(
@@ -131,7 +131,7 @@ with st.sidebar:
 # ─────────────────────────────────────────────────────────────────────────────
 st.markdown('<div class="main-title">🎗️ Breast Cancer Classification</div>', unsafe_allow_html=True)
 st.markdown(
-    '<div class="sub-title">ML Assignment 2 · BITS Pilani WILP · M.Tech AIML/DSE · '
+    '<div class="sub-title">ML ASSGMT2 · BITS Pilani WILP · M.Tech AIML/DSE - 2024DC04196· '
     'Breast Cancer Wisconsin (Diagnostic) Dataset</div>',
     unsafe_allow_html=True
 )
@@ -394,7 +394,7 @@ Breast Cancer Wisconsin (Diagnostic) dataset.
 st.divider()
 st.markdown(
     "<div style='text-align:center;color:#888;font-size:.8rem;'>"
-    "ML Assignment 2 · BITS Pilani WILP · M.Tech AIML/DSE · "
+    "ML ASSMT2 · BITS Pilani WILP · M.Tech AIML/DSE - 2024DC04196· "
     "Breast Cancer Wisconsin Classification</div>",
     unsafe_allow_html=True
 )
