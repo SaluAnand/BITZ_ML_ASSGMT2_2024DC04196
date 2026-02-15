@@ -149,7 +149,7 @@ streamlit run app.py
 
 Deployed on **Streamlit Community Cloud**:
 
-🔗 **Live App:** `https://SaluAnand.mlassgmt2.streamlit.app`  
+🔗 **Live App:** `https://bitzmlassgmt22024dc04196-oxwmlowcuybraks5nahv3w.streamlit.app/`  
 🔗 **GitHub Repo:** `https://github.com/SaluAnand/BITZ_ML_ASSGMT2_2024DC04196`
 
 ---
